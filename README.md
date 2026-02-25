@@ -22,11 +22,6 @@ Estou sempre buscando crescer profissionalmente e evoluir como desenvolvedor.
 
 💻 Front-End
 
-HTML5
-
-CSS3
-
-JavaScript
 
 
 🐍 Back-End / Estudos
